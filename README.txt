@@ -1,9 +1,9 @@
-Prologue by HTML5 UP
+Oppam Website on Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Prologue, a simple, single page responsive site template. It features a
+WebSite courtesy Prologue, a simple, single page responsive site template. It features a
 clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
 
 Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
@@ -26,6 +26,8 @@ PS: Not sure how to get that contact form working? Give formspree.io a try (it's
 
 
 Credits:
+    Prologue by HTML5 UP:
+        aj@lkn.io | @ajlkn
 
 	Demo Images:
 		Felicia Simion (ineedchemicalx.deviantart.com)
