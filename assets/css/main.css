@@ -149,12 +149,6 @@ input, select, textarea {
 		header > p {
 			margin: 1em 0 0 0;
 		}
-		header.alt {
-        			width: 50%;
-        			text-align: right;
-        			position:absolute;
-                    top:0; right:0;
-        	}
 
 	footer {
 		margin: 2em 0 0 0;
